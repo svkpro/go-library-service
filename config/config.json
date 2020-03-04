@@ -1,0 +1,6 @@
+{
+  "ENVIRONMENT": "dev",
+  "LOGGING_LEVEL": "info",
+  "HTTP_HOST": "localhost",
+  "HTTP_PORT": "19001"
+}
