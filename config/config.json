@@ -2,5 +2,13 @@
   "ENVIRONMENT": "dev",
   "LOGGING_LEVEL": "info",
   "HTTP_HOST": "localhost",
-  "HTTP_PORT": "19001"
+  "HTTP_PORT": "19001",
+
+  "DB_TYPE": "postgres",
+  "DB_HOST": "localhost",
+  "DB_DATABASE": "postgres",
+  "DB_USERNAME": "postgres",
+  "DB_PASSWORD": "postgres",
+  "DB_PORT": "19002",
+  "DB_SSL_MODE": "disable"
 }
